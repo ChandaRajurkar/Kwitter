@@ -2,16 +2,15 @@
 //ADD YOUR FIREBASE LINKS
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBkvdG17g-XyjNFD5kGvCWDkgd_9C34rIg",
-  authDomain: "kwitter-d1370.firebaseapp.com",
-  databaseURL: "https://kwitter-d1370-default-rtdb.firebaseio.com",
-  projectId: "kwitter-d1370",
-  storageBucket: "kwitter-d1370.appspot.com",
-  messagingSenderId: "174483672995",
-  appId: "1:174483672995:web:a7383ff6332bb6caecd416",
-  measurementId: "G-Y5H586SGEP"
+  apiKey: "AIzaSyDBaJn3u6y9Z7V0oIJfeE8Ve2DK_6WpfLY",
+  authDomain: "kwitter-7e99a.firebaseapp.com",
+  databaseURL: "https://kwitter-7e99a-default-rtdb.firebaseio.com",
+  projectId: "kwitter-7e99a",
+  storageBucket: "kwitter-7e99a.appspot.com",
+  messagingSenderId: "1019996457005",
+  appId: "1:1019996457005:web:462572a46322e0c21bd0a4",
+  measurementId: "G-W1TE07F368"
 };
-
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
 
